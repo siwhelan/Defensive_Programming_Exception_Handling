@@ -1,7 +1,28 @@
 # Defensive Programming - Exception Handling
 
-A simple calculator application that asks a user to enter two numbers and the operation (e.g. +, -, x, etc.) that they’d like to perform on those numbers. Each equation is calculated, the result printed, and the entire equation is appended to a text file. 
+Welcome to the Calculator! With this program, you can easily perform calculations and save your equations to a text file.
 
-Upon running the program, the user is asked if they would like to view all historical equations, if 'yes' the user is asked to input the name of the file they'd like to view, the contents of which are then printed to the console. If 'no', the program continues into the calculator itself. 
+# Features
 
-Throughout the program, mistakes in user input are anticipated, code is implemented to ensure the program does not crash, and the user is directed accordingly.
+    Perform calculations with two numbers
+    Choose from a range of operations (+, -, x, etc.)
+    View a history of all previous equations
+    Anticipate and handle mistakes in user input to prevent the program from crashing
+
+# Requirements
+
+    Python 3
+
+# Installation
+
+To use the Calculator, simply download the script and run it with Python 3.
+
+# Usage
+
+To use the calculator, follow these steps:
+
+    Run the script
+    Choose whether you want to view the history of previous equations or start a new calculation
+    If you choose to view the history, enter the name of the text file you want to view
+    If you choose to start a new calculation, enter two numbers and the operation you'd like to perform
+    The calculator will output the result and save the equation to a text file
