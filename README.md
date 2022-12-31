@@ -26,3 +26,7 @@ To use the calculator, follow these steps:
     If you choose to view the history, enter the name of the text file you want to view
     If you choose to start a new calculation, enter two numbers and the operation you'd like to perform
     The calculator will output the result and save the equation to a text file
+
+# Feedback
+
+If you have any feedback, please reach out to me at simon@swhelan.dev
