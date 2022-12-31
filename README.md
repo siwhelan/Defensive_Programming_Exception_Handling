@@ -1,4 +1,4 @@
-# Defensive_Programming_Exception_Handling
+# Defensive Programming - Exception Handling
 
 A simple calculator application that asks a user to enter two numbers and the operation (e.g. +, -, x, etc.) that they’d like to perform on those numbers. Each equation is calculated, the result printed, and the entire equation is appended to a text file. 
 
