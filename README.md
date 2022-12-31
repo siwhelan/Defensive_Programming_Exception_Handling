@@ -2,22 +2,22 @@
 
 Welcome to the Calculator! With this program, you can easily perform calculations and save your equations to a text file.
 
-# Features
+## Features
 
     Perform calculations with two numbers
     Choose from a range of operations (+, -, x, etc.)
     View a history of all previous equations
     Anticipate and handle mistakes in user input to prevent the program from crashing
 
-# Requirements
+## Requirements
 
     Python 3
 
-# Installation
+## Installation
 
 To use the Calculator, simply download the script and run it with Python 3.
 
-# Usage
+## Usage
 
 To use the calculator, follow these steps:
 
@@ -27,6 +27,6 @@ To use the calculator, follow these steps:
     If you choose to start a new calculation, enter two numbers and the operation you'd like to perform
     The calculator will output the result and save the equation to a text file
 
-# Feedback
+## Feedback
 
 If you have any feedback, please reach out to me at simon@swhelan.dev
